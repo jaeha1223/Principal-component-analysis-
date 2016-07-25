@@ -12,6 +12,9 @@
 #include "tnt_array1d.h"
 #include "tnt_array2d.h"
 
+//! Jaeha
+#include "tnt_array2d_utils.h"	// for cout<<(Array2D datatype)
+
 #include "jama_eig.h"
 
 
